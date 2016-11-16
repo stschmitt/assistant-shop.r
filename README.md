@@ -1,5 +1,6 @@
 # Assistant Shop.r Overview
 
+
 What if customer feedback automatically drove business decisions?
 
 Customer feedback contains invaluable insight into client satisfaction. Assistant Shop.r enables a department store to analyze aggregated customer feedback and consumer behavior in order to enable their buyers to make smarter purchasing decisions.
